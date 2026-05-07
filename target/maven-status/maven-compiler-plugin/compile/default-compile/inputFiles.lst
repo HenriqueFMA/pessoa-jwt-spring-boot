@@ -1,0 +1,17 @@
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/PessoaApplication.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/config/security/OpenApiConfig.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/config/security/SecurityConfigurations.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/config/security/SecurityFilter.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/config/security/TokenService.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/controller/AuthenticationController.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/controller/PessoaController.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/entity/Pessoa.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/entity/User.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/entity/enums/UserRoles.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/entity/user/dtos/AuthenticationDTO.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/entity/user/dtos/LoginResponseDTO.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/entity/user/dtos/RegisterDTO.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/repository/PessoaRepository.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/repository/UserRepository.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/service/AuthorizationService.java
+/home/henriquefurtado/Área de Trabalho/Accenture/atividades/pessoa-jwt-spring-boot/pessoa-jwt/src/main/java/com/accenture/pessoa/service/PessoaService.java
