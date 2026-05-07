@@ -166,3 +166,42 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 |-------|----------------------------------------------|
 | ADMIN | ROLE_ADMIN + ROLE_USER (acesso total)        |
 | USER  | ROLE_USER (leitura, atualização, remoção)    |
+
+
+
+## 📸 Imagens do Projeto
+
+### 📌 Tela 1
+<p align="center">
+  <img src="./img/Captura%20de%20tela%20de%202026-05-06%2021-08-40.png" width="800"/>
+</p>
+
+### 📌 Tela 2
+<p align="center">
+  <img src="./img/Captura%20de%20tela%20de%202026-05-06%2021-09-53.png" width="800"/>
+</p>
+
+### 📌 Tela 3
+<p align="center">
+  <img src="./img/Captura%20de%20tela%20de%202026-05-06%2021-10-51.png" width="800"/>
+</p>
+
+### 📌 Tela 4
+<p align="center">
+  <img src="./img/Captura%20de%20tela%20de%202026-05-06%2021-17-53.png" width="800"/>
+</p>
+
+### 📌 Tela 5
+<p align="center">
+  <img src="./img/Captura%20de%20tela%20de%202026-05-06%2021-18-28.png" width="800"/>
+</p>
+
+### 📌 Tela 6
+<p align="center">
+  <img src="./img/Captura%20de%20tela%20de%202026-05-06%2021-18-46.png" width="800"/>
+</p>
+
+### 📌 Tela 7
+<p align="center">
+  <img src="./img/Captura%20de%20tela%20de%202026-05-06%2021-26-09.png" width="800"/>
+</p>
